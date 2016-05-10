@@ -1,28 +1,40 @@
-name: titangym
-favicon: null
-layout_spectrum: 0.23001145268790424
-typography_spectrum: 0.35220828419551253
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2300114526879042
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1979526800569147
+  brandStrength: 0.2900270707905293
+  rhythmicContrast: 0.1416416922584176
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.29002707079052925
   lightness: 0.2260843412950635
-  saturation: 0.1979526800569147
-  rhythmicContrast: 0.1416416922584176
 purpose: []
+favicon: null
+name: titangym
+typography_spectrum: 0.3522082841955125
