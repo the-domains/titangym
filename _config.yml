@@ -1,7 +1,7 @@
 name: titan gym
 favicon: null
-layout_spectrum: 0.2300114526879042
-typography_spectrum: 0.3522082841955125
+layout_spectrum: 0.25252
+typography_spectrum: 0.62668
 collections:
   - index:
       path: /
