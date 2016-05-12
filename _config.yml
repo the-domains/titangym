@@ -1,6 +1,6 @@
 name: titan gym
 favicon: null
-layout_spectrum: 0.25252
+layout_spectrum: 0.75084
 typography_spectrum: 0.62668
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#a4072a'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
