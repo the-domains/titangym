@@ -1,40 +1,40 @@
-name: titan gym
-favicon: null
-layout_spectrum: 0.75084
-typography_spectrum: 0.62668
+layout_spectrum: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.25
+  brandStrength: 0.2314715
+  lightness: 0.5
   brandColors:
     - '#ffffff'
     - '#0c0c0c'
     - '#bbc5cf'
     - '#ab6e4c'
     - '#a4072a'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.25
   rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.62668
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: titan gym
