@@ -1,4 +1,7 @@
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -19,19 +22,16 @@ purpose: []
 color:
   saturation: 0.25
   brandStrength: 0.2314715
-  lightness: 0.5
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#0c0c0c'
     - '#bbc5cf'
     - '#ab6e4c'
     - '#a4072a'
-  rhythmicContrast: 0.25
-typography_spectrum: 0.62668
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0
+typography_spectrum: 0.7491944
+layout_spectrum: 0.4140709
 analytics:
   twitter: null
   google: null
